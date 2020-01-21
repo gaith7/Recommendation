@@ -12,8 +12,8 @@ on newcomer items through extracting hidden similarities among the specications 
 
 
 ## Requirements
--Matlab (2016A and above)
--Python 3
--Python PIL (pip install Pillow)
--The CloudHarmony dataset is available in Excel format in the file "Cloud.xlsx".
--The Epinions dataset is available in text format in the file "Epinions.txt".
+* Matlab (2016A and above)
+* Python 3
+* Python PIL (pip install Pillow)
+* The CloudHarmony dataset is available in Excel format in the file "Cloud.xlsx".
+* The Epinions dataset is available in text format in the file "Epinions.txt".
