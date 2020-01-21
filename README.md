@@ -12,8 +12,8 @@ Our solution consists of:
 * Matlab (2016A and above)
 * Python 3
 * Python PIL (pip install Pillow)
-* The CloudHarmony dataset is available in Excel format in the file "Cloud.xlsx".
-* The Epinions dataset is available in text format in the file "Epinions.txt".
+* The CloudHarmony dataset (available in Excel format in the file "Cloud.xlsx").
+* The Epinions dataset  (available in text format in the file "Epinions.txt").
 
 ## Implementation
 There are two files for the code
