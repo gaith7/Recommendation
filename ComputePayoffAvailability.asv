@@ -1,0 +1,19 @@
+function [ payoff ] = ComputePayoffAvailability( community, WorthCommunity, worthWS )
+
+payoff=0;
+WorthCommunityWithoutWS=WorthCommunity-worthWS;
+
+for i=1:length(community)
+    disp('WorthCommunity');
+    disp(WorthCommunity);
+    disp('WorthCommunityWithoutWS');
+    disp(WorthCommunityWithoutWS);
+    disp('worthWS');
+    disp(worthWS);
+    disp('length(community)');
+    disp(length(community));
+    payoff= 1/length(community)*((WorthCommunity-WorthCommunityWithoutWS)+worthWS);
+end
+
+end
+

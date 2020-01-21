@@ -1,0 +1,10 @@
+function [ IsElement ] = isElementOfList( list, element )
+
+IsElement=false;
+
+for i=1:length(list)
+    if()
+end
+
+end
+

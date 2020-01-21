@@ -1,0 +1,186 @@
+99.9848 3 6.58mins
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+99.8171 1 1.32hours
+100 0 None
+100 0 None
+99.9969 1 1.33mins
+99.9638 4 15.63mins
+100 0 None
+100 0 None
+100 0 None
+99.997 1 1.28mins
+100 0 None
+99.9335 6 28.72mins
+100 0 None
+100 0 None
+99.7173 11 2.04hours
+99.9807 1 8.33mins
+100 0 None
+100 0 None
+99.9233 6 33.12mins
+99.9618 17 16.5mins
+100 0 None
+100 0 None
+99.9917 3 3.6mins
+100 0 None
+99.9636 2 15.72mins
+100 0 None
+99.943 19 29.52mins
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+99.9554 2 19.27mins
+99.9969 1 1.35mins
+100 0 None
+M99.9579 6 18.2mins
+100 0 None
+99.9851 2 6.42mins
+100 0 None
+99.9893 3 4.23mins
+100 0 None
+100 0 None
+99.999 1 26secs
+100 0 None
+100 0 None
+100 0 None
+99.9363 2 27.5mins
+100 0 None
+99.994 6 2.6mins
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+99.7247 1 None
+100 0 None
+100 0 None
+100 0 None
+99.9652 8 15.02mins
+99.9864 3 5.88mins
+99.9851 5 6.45mins
+99.9463 1 23.2mins
+99.9441 11 24.15mins
+99.6388 54 2.6hours
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+99.3157 5 4.93hours
+100 0 None
+100 0 None
+99.9696 4 13.12mins
+1 99.9919 2 3.52mins
+1 99.9933 1 2.88mins
+1 99.9912 1 3.82mins
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+100 0 None
+99.983 1 7.33mins
+99.9751 1 10.75mins
+100 0 None
+100 0 None
+100 0 None
+99.9958 1 1.8mins
+99.996 1 1.72mins
+100 0 None
+100 0 None
+100 0 None
+99.7222 1 None
+99.989 1 4.77mins
+100 0 None
+99.9666 1 14.45mins
+99.9738 8 11.3mins
+99.9936 2 2.78mins
+100 0 None
+mpute eu-central 99.5554 17 3.2hours
+mpute eu-west 99.9993 1 19secs
+rvine 100 0 None
+ureVirtualMachines asia-east 100 0 None
+ureVirtualMachines asia-southeast 100 0 None
+ureVirtualMachines brazil-south 100 0 None
+ureVirtualMachines eu-north 100 0 None
+ureVirtualMachines eu-west 99.9949 1 2.2mins
+ureVirtualMachines japan-east 100 0 None
+ureVirtualMachines japan-west 100 0 None
+ureVirtualMachines us-central 100 0 None
+ureVirtualMachines us-east 100 0 None
+ureVirtualMachines us-east2 100 0 None
+ureVirtualMachines us-northcentral 100 0 None
+ureVirtualMachines us-southcentral 100 0 None
+ureVirtualMachines us-west 100 0 None
+loudComputing ric-1 100 0 None
+loudComputing sjc-1 100 0 None
+loud orem 100 0 None
+tualServers apac1 99.9925 3 42.88mins
+tualServers apac2 99.7606 4 2.32hours
+ud pl_warsaw 100 0 None
+ east1 99.987 1 5.62mins
+ney 99.9701 14 12.9mins
+loud eu-west 99.9976 1 1.03mins
+loud us-east 99.9814 5 8.02mins
+loud us-west 100 0 None
+oudServers DFW 100 0 None
+oudServers HKG 99.9992 1 21secs
+oudServers IAD 99.9946 1 2.35mins
+oudServers LON 100 0 None
+oudServers ORD 100 0 None
+oudServers SYD 100 0 None
+ north-shore 99.9965 1 1.53mins
+VPS montreal 100 0 None
+wareCloud denver 99.7455 5 1.83hours
+wareCloud docklands 100 0 None
+wareCloud edison 99.9647 14 15.25mins
+wareCloud park-royal 99.9733 5 11.53mins
+wareCloud singapore 100 0 None
+mpute hyderabad 100 0 None
+mpute singapore 100 0 None
+anta 99.9279 1 31.17mins
+cago 99.9633 1 15.87mins
+don 100 0 None
+treal 99.9471 5 22.87mins
+-delhi 99.8223 5 1.28hours
+-paulo 99.941 10 25.48mins
+gapore 100 0 None
+ney 99.8716 13 55.45mins
+rdam 99.9443 1 24.08mins
+ta 100 0 None
+go 100 0 None
+s 99.9242 1 32.77mins
+furt 100 0 None
+n 100 0 None
+ngeles 100 0 None
+ 100 0 None
+ersey 100 0 None
+ork 99.906 1 40.62mins
+ 99.934 19 28.5mins
+le 100 0 None
+on-valley 100 0 None
+y 99.9907 1 4mins
+ 99.866 16 57.88mins
+ NY1 99.9991 1 24secs
+allas 84.9422 15 50.53mins
+ublin 85.0587 1 None
+aidenhead 85.1767 7 32.18hours
+udServers POZ 99.9949 1 2.22mins
+udServers WAW 100 0 None
+richmond 99.9938 2 2.68mins
+suwanee 99.9553 18 19.32mins
+mi 100 0 None
+elbourne 100 0 None
+erth 99.9308 2 23.53mins
+ydney 99.956 20 19mins

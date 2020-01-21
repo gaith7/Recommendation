@@ -1,0 +1,8 @@
+AmazonEC2 ap-northeast-1 100 0 None 0.03 0.11
+AmazonEC2 ap-southeast-1 98.565 0 None 0.06 0.22
+AmazonEC2 ap-southeast-2 100 0 None 0.12 0.441
+AmazonEC2 eu-central-1 100 0 None 0.24 0.882
+AmazonEC2 eu-west-1 98.365 0 None 0.045 1.763
+AmazonEC2 sa-east-1 100 0 None 0.091 0.105
+AmazonEC2 us-east-1 100 0 None 0.182 0.21
+AmazonEC2 us-west-1 100 0 None 0.364 0.42
