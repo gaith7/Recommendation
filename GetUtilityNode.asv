@@ -1,5 +1,0 @@
-function [ utility ] = GetUtilityNode( graph, node_id)
-
-
-end
-
