@@ -17,3 +17,18 @@ on newcomer items through extracting hidden similarities among the specications 
 * Python PIL (pip install Pillow)
 * The CloudHarmony dataset is available in Excel format in the file "Cloud.xlsx".
 * The Epinions dataset is available in text format in the file "Epinions.txt".
+
+## Implementation
+There are two files for the code
+
+* The CloudHarmony dataset is available in Excel format in the file "Cloud.xlsx".
+* The Epinions dataset is available in text format in the file "Epinions.txt".
+* The main class is "Main.m".
+* The Dempster-Shafer aggregation code is described in the class "DempsterShafer.m".
+* The decision tree code is described in the class "DecBoot.m".
+* The comparison with the "Fuzzy Formal Concept Analysis" model is available in the folder "Fuzzy FCA".
+
+
+For the fuzzy logic part (Fuzzy FCA), we designed our system logic beforehand by using Fuzzy Logic Designer inside MATLAB toolkit. Once we have the .fis (fuzzy inference system) file which describes our fuzzy system, we connect our Python code to MATLAB in order to let it automatically evaluate user input.
+
+**Please note: BigTrustScheduling is not yet production ready. However, the project is rapidly progressing with some very useful features.**
