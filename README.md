@@ -25,6 +25,5 @@ Our solution consists of:
 * The comparison with the "Fuzzy Formal Concept Analysis" model is available in the folder "Fuzzy FCA".
 
 
-For the fuzzy logic part (Fuzzy FCA), we designed our system logic using Fuzzy Logic Designer from the MATLAB toolkit. Once we have the .fis (fuzzy inference system) file which describes our fuzzy system, we connect our Python code to MATLAB in order to let it automatically evaluate users' input (e.g., Promised_Availability, Actual_Availability, Outages, etc.).
+For the fuzzy logic part (Fuzzy FCA), we designed our system logic using Fuzzy Logic Designer from the MATLAB toolkit. Once we have the .fis (fuzzy inference system) file which describes our fuzzy system, we connect our Python code to MATLAB in order to let it automatically evaluate users' input (e.g., promised availability, actual availability, outages, etc.).
 
-**Please note: BigTrustScheduling is not yet production ready. However, the project is rapidly progressing with some very useful features.**
