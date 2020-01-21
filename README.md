@@ -1,4 +1,4 @@
-### Recommendation for Newcomer Cloud Services 
+# Recommendation for Newcomer Cloud Services 
 
 Our solution consists of:
 1. mechanism to allow users to self-assess the accuracy of their recommendations and au-
@@ -11,7 +11,7 @@ on newcomer items through extracting hidden similarities among the specications 
 5. incentive mechanism to motivate advisors to participate in the endorsement process.
 
 
-# Requirements
+## Requirements
 Matlab (2016A and above)
 Python 3
 Python PIL (pip install Pillow)
